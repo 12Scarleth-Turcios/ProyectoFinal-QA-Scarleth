@@ -12,7 +12,7 @@ lo cual facilita encontrar defectos funcionales y de interfaz.
 -Búsqueda por palabras
 -Apertura de un pin y visualización de detalles
 -Navegación atrás/adelante del navegador
--Comportamiento responsive usando DevTools (móvil/tablet)
+-Comportamiento responsive usando DevTools (móvil)
 
 4. Fuera de alcance (qué NO se probará)
 -Registro e inicio de sesión
@@ -21,6 +21,7 @@ lo cual facilita encontrar defectos funcionales y de interfaz.
 
 5. Herramientas de pruebas
 -Equipo: Computadora personal
+         Móvil personal
 -SO: Windows 7 
 -Navegador: Google Chrome 
 

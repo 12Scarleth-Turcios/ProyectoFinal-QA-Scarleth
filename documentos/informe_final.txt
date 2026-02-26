@@ -56,3 +56,6 @@ El scroll de Pinterest es bastante fluido y usable para todas las personas que n
 -Implementar validación visible para campo de búsqueda vacío.
 -Mejorar manejo de términos inválidos en búsqueda.
 -Validar periódicamente enlaces externos para evitar redirecciones con error.
+
+7. Presentación para los directivos
+https://www.canva.com/design/DAHCYU-iDoo/E9ifAFXZyKpGK3c2hpkPhQ/edit?utm_content=DAHCYU-iDoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
