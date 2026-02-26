@@ -1,0 +1,45 @@
+1. Épica seleccionada
+Pinterest Lite (web en computadora / navegador Chrome)
+
+2. Justificación
+Elegí Pinterest Lite versión web porque permite explorar contenido y probar flujos 
+claves como la navegación, búsqueda, visualización de pines y comportamiento responsive, 
+lo cual facilita encontrar defectos funcionales y de interfaz.
+
+3. Alcance (qué se probará)
+-Carga de home/feed
+-Scroll (carga de más contenido)
+-Búsqueda por palabras
+-Apertura de un pin y visualización de detalles
+-Navegación atrás/adelante del navegador
+-Comportamiento responsive usando DevTools (móvil)
+
+4. Fuera de alcance (qué NO se probará)
+-Registro e inicio de sesión
+-Funciones que requieran cuenta (guardar pines/crear tableros si obliga login)
+-Pagos, anuncios, configuración avanzada
+
+5. Herramientas de pruebas
+-Equipo: Computadora personal
+         Móvil personal
+-SO: Windows 7 
+-Navegador: Google Chrome 
+
+6. Historias de usuario (HU)
+HU1: Como usuario quiero ver el feed para explorar contenido.
+Criterios: home carga, imágenes visibles, scroll funciona.
+
+HU2: Como usuario quiero filtrar por palabras claves para encontrar pines.
+Criterios: resultados relacionados, mensaje si no hay resultados.
+
+HU3: Como usuario quiero abrir un pin para ver detalles.
+Criterios: vista detalle se abre, imagen se ve, puedo volver atrás.
+
+HU4: Como usuario quiero que el sitio se adapte a diferentes tamaños de pantalla.
+Criterios: elementos no se sobreponen, botones clickeables en móvil/tablet.
+
+HU5: Como usuario quiero que links externos funcionen para ir a la fuente.
+Criterios: link abre sin error, se abre correctamente.
+
+HU6: Como usuario quiero ver mensajes claros si hay algún errores.
+Criterios: si algo falla, no debe quedar en blanco; debe mostrar mensaje o estado.

@@ -1,0 +1,61 @@
+PROYECTO FINAL INTEGRADOR
+QA-TESTING-ADAITW
+NOVIEMBRE 2025/FEBRERO 2026
+
+Estudiante/Tester: Scarleth Turcios
+Fecha de entrega: 26/febrero/2026
+
+
+1. Alcance 
+-Utilizado
+Version web de Pinterst (PC y movil)
+Sin login
+Pruebas funcionales y responsive
+Se hizo navegación / búsqueda / detalle de los pines
+Pruebas offline
+
+-NO utilizado
+APIs
+Flujo completo del login
+
+2. Ambiente
+-Desktop
+Window's 7
+Chrome 145.0.7632.116
+Git/GitHub
+Pinterest Web
+Excel
+
+-Iphone (IOS 26.1)
+Safari
+Pinters Web
+Grabadora de pantalla
+
+3. Resultados
+Casos de pruebas realizados: 30 total
+Estados:
+-OK: 27 test
+-FAIL: 3 test
+-Evidencias: Screenshots y vídeos. 
+
+4.Defectos críticos / BUGS
+No se encontraron bugs críticos, sin embargo; si con severidad media que si en su momento no se solucionan podrían 
+llegar a considerarse severidad alta. 
+ID	Descripción	                            Tipo	        Severidad   Prioridad	Estado
+BUG-01	Ejecutar búsqueda sin Longin.	            Funcional	        Baja	    Media	FAIL
+BUG-02	Búsqueda con caracteres especiales.	    Funcional	        Media	    Baja	FAIL
+BUG-03	Visitar el enlace que proporciona el pin.   Funcional/contenido	Media	    Media	FAIL
+
+5.Conclusiones
+El sistema de Pinterst presenta estabilidad en su funcionalidad y adaptabilidad responsive; se encontraron puntos de
+mejora en enlaces externos y en la búsqueda de pines con caracteres específicos. 
+
+El scroll de Pinterest es bastante fluido y usable para todas las personas que no desean regristrarse en la misma. 
+
+6.Recomendaciones
+-Implementar validación visible para campo de búsqueda vacío.
+-Mejorar manejo de términos inválidos en búsqueda.
+-Validar periódicamente enlaces externos para evitar redirecciones con error.
+
+7. Presentación para los directivos
+https://www.canva.com/design/DAHCYU-iDoo/E9ifAFXZyKpGK3c2hpkPhQ/edit?utm_content=DAHCYU-iDoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
